@@ -26,8 +26,25 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import python from './python.svg'
+import aws from './aws.svg'
+import pytorch from './pytorch.svg'
+import powerbi from './powerbi.svg'
+import tensorflow from './tensorflow.svg'
+import RStudio from './RStudio.svg'
+import cpp from './c++.svg'
+import jupyter from './jupyter.svg'
+
 
 export {
+    cpp,
+    jupyter,
+    RStudio,
+    tensorflow,
+    powerbi,
+    pytorch,
+    aws,
+    python,
     css,
     express,
     git,
