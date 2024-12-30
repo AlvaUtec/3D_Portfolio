@@ -1,8 +1,11 @@
-# React + Vite
+# 3D-Island
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a simple 3D island scene with a rotating camera. The scene is built using the Three.js library and the camera is controlled using the OrbitControls.js library.
 
-Currently, two official plugins are available:
+You can run the project by using
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm run dev
+```
+
+This will start a development server at `http://localhost:8080/` and you can view the scene in your browser.
