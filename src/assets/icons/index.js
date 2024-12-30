@@ -34,9 +34,15 @@ import tensorflow from './tensorflow.svg'
 import RStudio from './RStudio.svg'
 import cpp from './c++.svg'
 import jupyter from './jupyter.svg'
+import gradio from './gradio.svg'
+import threejs from './threejs.svg'
+import problematic_internet from './problematic_internet.svg'
 
 
 export {
+    gradio,
+    threejs,
+    problematic_internet,
     cpp,
     jupyter,
     RStudio,
